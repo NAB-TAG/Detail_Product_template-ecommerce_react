@@ -1,8 +1,15 @@
-# React + Vite
+# Plantilla de Detalle de Producto con React.js y Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una plantilla básica para crear páginas de detalle de productos utilizando React.js y Vite. Proporciona una estructura inicial y componentes simples que puedes personalizar según tus necesidades.
 
-Currently, two official plugins are available:
+## Requisitos Previos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Asegúrate de tener Node.js y npm instalados en tu máquina antes de comenzar.
+
+## Clonar el Repositorio
+
+```bash
+git clone https://github.com/NAB-TAG/Detail_Product_template-ecommerce_react
+cd Detail_Product_template-ecommerce_react
+npm install
+npm run dev
